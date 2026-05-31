@@ -1,0 +1,1 @@
+pyinstaller -w -i zone_compory_logo.ico --add-data "screen;screen" --add-data "fonts;fonts" --add-data "python;python" --add-data "sound;sound" main.py
